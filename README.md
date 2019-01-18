@@ -24,23 +24,23 @@
 ## 세부기능목록
 
 ### 일반 사용자 앱 기능
-|<center> ![image.png](https://meeta.io:3000/api/image/1547791045021.png) </center> |
+|<center> ![image](https://user-images.githubusercontent.com/24868606/51368657-bece8b80-1b33-11e9-821a-5c93bfb51e8e.png) </center> |
 |-|
-|![image.png](https://meeta.io:3000/api/image/1547791045089.png)|
-
-
+|![image](https://user-images.githubusercontent.com/24868606/51368681-d279f200-1b33-11e9-835d-020754f5b606.png)|
 
 
 
 ### 트레이너 앱 기능
 
-|<center> ![image.png](https://meeta.io:3000/api/image/1547791045074.png) </center> |
+|<center> ![image](https://user-images.githubusercontent.com/24868606/51368695-e0c80e00-1b33-11e9-83be-f34632bcc0cf.png) </center> |
 |-|
-|![image.png](https://meeta.io:3000/api/image/1547791045115.png)|
+|![image](https://user-images.githubusercontent.com/24868606/51368726-f2111a80-1b33-11e9-940d-91816c30fbfa.png)
+|
+
 
 
 ### 관리자 앱 기능
 
-|<center> ![image.png](https://meeta.io:3000/api/image/1547791045118.png) </center> |
+|<center> ![image](https://user-images.githubusercontent.com/24868606/51368736-fa695580-1b33-11e9-923e-12a3643e129a.png) </center> |
 |-|
-|![image.png](https://meeta.io:3000/api/image/1547791045125.png)|
+|![image](https://user-images.githubusercontent.com/24868606/51368745-01906380-1b34-11e9-9e70-71bfa9d23a27.png)|
