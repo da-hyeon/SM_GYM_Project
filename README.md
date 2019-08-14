@@ -2,7 +2,6 @@
 
 ## 개발환경
 - Android Studio
-- FileZilla
 
 ## 개발언어
 - JAVA
